@@ -1,0 +1,1 @@
+INSERT INTO colors(name, hexRgb) VALUES ('Blue', '#0000FF'), ('Red', '#FF0000'), ('Yellow', '#FFFF00'), ('Green', '#008000')
